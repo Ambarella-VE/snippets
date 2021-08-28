@@ -9,7 +9,3 @@ String.prototype.toProperCase = function(str) {
     }
   )
 }
-
-
-
-console.log("ambar caNonicco".toProperCase())
